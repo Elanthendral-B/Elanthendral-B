@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋 I'm Elanthendral B
 
-<!--
-**Elanthendral-B/Elanthendral-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student at Shrimati Indira Gandhi College, Trichy
 
-Here are some ideas to get you started:
+💻 Interested in **Web Development, Frontend Development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning and improving my skills in:
+
+* HTML & CSS
+* JavaScript
+* React
+* Python
+* UI/UX Design
+* GitHub
+
+🚀 I enjoy creating simple and user-friendly web projects and learning new technologies through hands-on projects.
+
+### 🔗 Connect with Me
+
+* 💼 LinkedIn: [Elanthendral B](https://www.linkedin.com/in/elanthendralb)
+* 🌐 Portfolio: [My Portfolio](https://elanthendral-b-portfolio.lovable.app)
+
+Thanks for visiting my profile! 😊
